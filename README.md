@@ -19,7 +19,7 @@ Após baixar, abra o arquivo em um dispositivo Android e autorize a instalação
 - **Splash Screen:** tela inicial do aplicativo.
 - **Interface personalizada:** design com tons de branco e laranja, cartões arredondados e navegação inferior.
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - **Flutter:** desenvolvimento da interface mobile.
 - **Dart:** linguagem de programação.
