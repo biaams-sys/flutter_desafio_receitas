@@ -4,11 +4,9 @@ Aplicativo mobile desenvolvido em Flutter para a atividade **Aula06 — App com 
 
 O projeto consiste em um livro de receitas digital que consome dados de uma API própria hospedada na Vercel, permitindo visualizar receitas, consultar seus detalhes, cadastrar novas receitas e excluir receitas existentes.
 
-##  Download do APK
+##  Download do aplicativo
 
-Baixe o aplicativo Livro de Receitas para Android e experimente suas funcionalidades!
-
-[**Baixar Livro de Receitas (APK)**](app-release.apk)
+[ **BAIXAR LIVRO DE RECEITAS — APK ANDROID**](https://github.com/biaams-sys/flutter_desafio_receitas/releases/latest/download/app-release.apk)
 
 Após baixar, abra o arquivo em um dispositivo Android e autorize a instalação, caso o sistema solicite.
 ##  Funcionalidades
